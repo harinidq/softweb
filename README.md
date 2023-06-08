@@ -289,6 +289,7 @@ Publish the website in the given URL.
 ![k1](https://github.com/shara56/softweb/assets/113497104/8b0e81f6-d3e1-4581-8ea7-9824f71989cd)
 
 ## HTML VALIDATOR:
+![image](https://github.com/harinidq/softweb/assets/113497680/02a639a0-651d-427f-abeb-44f755345da9)
 
 
 ## RESULT:
